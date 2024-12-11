@@ -19,4 +19,3 @@ Lab 9, Part 2
 I really liked the idea of writing two programs, game and secret that also allows for the
 answer to be written in a separate file. It was really fun to write and have to test out to
 make sure the code was running correctly. 
-
